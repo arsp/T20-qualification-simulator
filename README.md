@@ -9,3 +9,6 @@ Coding Challenge - T20 World Cup Super 6 qualification scenario simulator
 
 # Performance
 
+
+# Assumptions
+fixtures will be in future days.
